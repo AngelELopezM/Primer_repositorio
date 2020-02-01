@@ -1,0 +1,11 @@
+C:\Users\enman\source\repos\Calcula_el_radio_circunferencia\Calcula_el_radio_circunferencia\bin\Debug\netcoreapp3.1\Calcula_el_radio_circunferencia.exe
+C:\Users\enman\source\repos\Calcula_el_radio_circunferencia\Calcula_el_radio_circunferencia\bin\Debug\netcoreapp3.1\Calcula_el_radio_circunferencia.deps.json
+C:\Users\enman\source\repos\Calcula_el_radio_circunferencia\Calcula_el_radio_circunferencia\bin\Debug\netcoreapp3.1\Calcula_el_radio_circunferencia.runtimeconfig.json
+C:\Users\enman\source\repos\Calcula_el_radio_circunferencia\Calcula_el_radio_circunferencia\bin\Debug\netcoreapp3.1\Calcula_el_radio_circunferencia.runtimeconfig.dev.json
+C:\Users\enman\source\repos\Calcula_el_radio_circunferencia\Calcula_el_radio_circunferencia\bin\Debug\netcoreapp3.1\Calcula_el_radio_circunferencia.dll
+C:\Users\enman\source\repos\Calcula_el_radio_circunferencia\Calcula_el_radio_circunferencia\bin\Debug\netcoreapp3.1\Calcula_el_radio_circunferencia.pdb
+C:\Users\enman\source\repos\Calcula_el_radio_circunferencia\Calcula_el_radio_circunferencia\obj\Debug\netcoreapp3.1\Calcula_el_radio_circunferencia.csprojAssemblyReference.cache
+C:\Users\enman\source\repos\Calcula_el_radio_circunferencia\Calcula_el_radio_circunferencia\obj\Debug\netcoreapp3.1\Calcula_el_radio_circunferencia.AssemblyInfoInputs.cache
+C:\Users\enman\source\repos\Calcula_el_radio_circunferencia\Calcula_el_radio_circunferencia\obj\Debug\netcoreapp3.1\Calcula_el_radio_circunferencia.AssemblyInfo.cs
+C:\Users\enman\source\repos\Calcula_el_radio_circunferencia\Calcula_el_radio_circunferencia\obj\Debug\netcoreapp3.1\Calcula_el_radio_circunferencia.dll
+C:\Users\enman\source\repos\Calcula_el_radio_circunferencia\Calcula_el_radio_circunferencia\obj\Debug\netcoreapp3.1\Calcula_el_radio_circunferencia.pdb
